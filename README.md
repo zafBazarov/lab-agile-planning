@@ -1,4 +1,4 @@
-# Agile-and-Scrum-Fundamentals
+# lab-agile-planning
 Hi, I am a master's student in Transition Management at JLU. 
 I am interested in Agile and Scrum. 
 I am currently learning Scrum. 
